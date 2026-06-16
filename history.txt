@@ -1,0 +1,1 @@
+[2026-06-16 14:38:36] Equation: dy/dx + y = x | Type: Linear Differential Equation | Order: 1 | Degree: 1
